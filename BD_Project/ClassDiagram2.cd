@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BD_Project.Contact_window">
+    <Position X="10" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>MAAAAAAAACAAABAAAACAAAQCEAAQAAAAAHAAARAAAAA=</HashCode>
+      <FileName>Contact_window.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_Project.ContNouWindow">
+    <Position X="12.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAEAECAAAACAAAQAAAAgGAAABBAAAA=</HashCode>
+      <FileName>ContNouWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_Project.FirstCustomControl">
+    <Position X="2.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAAABAAAACAAAACAAAIAAAAAAAAAABAAAA=</HashCode>
+      <FileName>FirstCustomControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_Project.Home">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACQIAAAAACAAAhAFAMKAAAD+A8w7IDE0wDAfAYBAQIA=</HashCode>
+      <FileName>Home.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_Project.Produse_window">
+    <Position X="7.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAADiAwAIAAAAAMAAAIAAAAA=</HashCode>
+      <FileName>Produse_window.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_Project.SecondCustomControl">
+    <Position X="5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ABAAABAAACAAABAAAACAAAACAAA4AAAAAAAAAQBAAAA=</HashCode>
+      <FileName>SecondCustomControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
